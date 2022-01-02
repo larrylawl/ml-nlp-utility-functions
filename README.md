@@ -10,6 +10,8 @@ The notebook in this repository contains utility functions which I found useful 
 1. Gradient Clipping
 2. BERT Word Embeddings
 
+Example usage and unit tests are specified in the notebook.
+
 I've added the `environment.yml` for reproducibility of the notebook. However, I've tried to keep each cell self-contained such that users only need to install the dependencies in the cell.
 
 Feel free to use them for your own research (ง︡'-'︠)ง.
